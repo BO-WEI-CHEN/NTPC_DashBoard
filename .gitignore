@@ -6,12 +6,18 @@ bin-release/
 
 # Other files and folders
 .settings/
+.
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+
+# Translations
+*.mo
+*.pot
+.DS_Store
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
