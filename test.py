@@ -71,7 +71,7 @@ app.layout = html.Div(
     [
         html.Div(
             [
-                html.H4("新北市政府衛生局", style={"textAlign": "left"}),
+                html.H4("新北政府衛生局", style={"textAlign": "left"}),
                 html.H6(
                     "食安智慧監控中心-數據儀表板", style={"textAlign": "left", "color": "#e63946"}
                 ),
